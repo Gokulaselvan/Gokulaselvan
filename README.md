@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I'm Currently learning for a full stack developer in web and mobile technologies
- - Python for scripting
- - Django for backend development like rest,
- - React for frontend development
- - flutter for mobile development
+I'm Currently learning for a full stack developer in web
+ - Django, Fast API, Node js for backend development
+ - React with Typescript for frontend development
 
 <!--
 **Gokulaselvan/Gokulaselvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
